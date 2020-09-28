@@ -8,6 +8,7 @@
 import java.text.DecimalFormat;
 
 public class Account {
+	
 	// // class variables
 
 	// constants
@@ -79,12 +80,12 @@ public class Account {
 	public long getAcctNumber() {
 		return acctNumber;
 	}
-
+	
 	// Returns the current balance of the account.
 	public double getBalance() {
 		return balance;
 	}
-
+	
 	// Sets the current balance of the account to a new value.
 	public void setBalance(double balance) {
 		this.balance = balance;
