@@ -1,2 +1,2 @@
-# bank
-An expanded version of the original atm simulator that includes a bank.
+# bank 2
+This version of bank removes the original ATM.
